@@ -77,7 +77,7 @@
         "babel-core": "^6.26.0",
         "babel-eslint": "^10.0.1",
         "babel-helper-vue-jsx-merge-props": "^2.0.3",
-        "babel-jest": "^23.6.0",
+        "babel-jest": "^24.0.0",
         "babel-loader": "^7.1.2",
         "babel-plugin-import": "^1.1.1",
         "babel-plugin-inline-import-data-uri": "^1.0.1",
